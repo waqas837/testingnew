@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "waqas",
+      "address": "Rawalpind",
+      "email": "waqas@gmail.com",
+      "randImage": "https://source.unsplash.com/WLUHO9A_xik/400x400"
+    },
+    {
+      "id": 2,
+      "name": "saleem",
+      "address": "Karachi",
+      "email": "saleem@gmail.com",
+      "randImage": "https://source.unsplash.com/WLUHO9A_xik/400x400"
+    },
+    {
+      "id": 3,
+      "name": "Asif",
+      "address": "Islamabad",
+      "email": "asif@gmail.com",
+      "randImage": "https://source.unsplash.com/WLUHO9A_xik/400x400"
+    },
+    {
+      "id": 4,
+      "name": "Amjad",
+      "address": "Faislabad",
+      "email": "amjad@gmail.com",
+      "randImage": "https://source.unsplash.com/WLUHO9A_xik/400x400"
+    },
+    {
+      "id": 5,
+      "name": "Lateef",
+      "address": "Peshawar",
+      "email": "lateef@gmail.com",
+      "randImage": "https://source.unsplash.com/WLUHO9A_xik/400x400"
+    },
+    {
+      "id": 6,
+      "name": "Faisal",
+      "address": "Quetta",
+      "email": "faisal@gmail.com",
+      "randImage": "https://source.unsplash.com/WLUHO9A_xik/400x400,"
+    }
+  ]
+}
